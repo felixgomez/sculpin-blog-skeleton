@@ -1,7 +1,8 @@
 Sculpin Blog Skeleton for bootstrap 4 alpha.6
 =============================================
 
-A skeleton for a Sculpin based blog using Bootstrap 4 Alpha.
+A skeleton for Sculpin based blog using Bootstrap 4 Alpha.
+
 Based on the project [sculpin/sculpin-blog-skeleton](https://github.com/sculpin/sculpin-blog-skeleton).
 
 Powered by [Sculpin](http://sculpin.io). =)
