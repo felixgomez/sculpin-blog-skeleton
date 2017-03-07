@@ -1,0 +1,38 @@
+{
+    "name": "felixgomez/sculpin-blog-skeleton",
+    "description": "A template for a Sculpin based blog with Bootstrap 4",
+    "type": "sculpin-skeleton",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Dragonfly Development Inc.",
+            "email": "info@dflydev.com",
+            "homepage": "http://dflydev.com"
+        },
+        {
+            "name": "Beau Simensen",
+            "email": "beau@dflydev.com",
+            "homepage": "http://beausimensen.com"
+        },
+        {
+            "name": "Félix Gómez López",
+            "email": "felix.gomez.lopez@gmail.com"
+        }    ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/felixgomez/bootstrap"
+        }
+    ],
+    "require": {
+        "sculpin/sculpin": "^2.1@dev",
+        "kriswallsmith/assetic": "^1.4",
+        "components/bootstrap": "^4.0.0",
+        "components/highlightjs": "^9.9",
+        "robloach/component-installer": "^0.2.3"
+    },
+    "config": {
+        "component-dir": "source/components"
+    }
+}
